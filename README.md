@@ -1,4 +1,4 @@
-# Yandex-Project
+# Yandex-Project : Tetris
 Простенький тетрис на PyGame
 
 
